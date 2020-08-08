@@ -1,5 +1,5 @@
 # FROM mcr.microsoft.com/vscode/devcontainers/rust:1
-FROM tatsuya6502/vscode-devcontainers-rust:base
+FROM quay.io/tatsuya6502/vscode-devcontainers-rust:base
 
 # [Optional] Uncomment this section to install additional packages.
 # RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
